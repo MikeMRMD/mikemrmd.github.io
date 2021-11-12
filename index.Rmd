@@ -6,6 +6,7 @@ output:
   html_document:
     theme: darkly
 ---
+![](./img/perfil.jpg)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
