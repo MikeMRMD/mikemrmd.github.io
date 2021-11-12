@@ -1,0 +1,27 @@
+---
+title: "Miguel Angel Martínez Rojas"
+--author: "MikeMRMD"
+--date: "11/12/2021"
+output: 
+  html_document:
+    theme: darkly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Datos personales
+
+Fecha de nacimiento: 02 diciembre 1993  
+Edad: 27  
+Nacionalidad: Mexicano  
+
+## Formación Académica
+Licenciatura: Médico Cirujano  
+2012-2019  
+
+## Contacto y redes sociales
+Correo electrónico: mikemarm_93@live.com.mx  
+Facebook: Mike Mtz-Rojas  
+Twitter: MRMike_MD  
