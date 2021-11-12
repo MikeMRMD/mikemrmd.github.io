@@ -23,5 +23,5 @@ Licenciatura: Médico Cirujano
 
 ## Contacto y redes sociales
 Correo electrónico: mikemarm_93@live.com.mx  
-Facebook: Mike Mtz-Rojas  
-Twitter: MRMike_MD  
+![](./img/facebook_icon.png) Facebook: [Mike Mtz-Rojas](https://www.facebook.com/mike.martinez.332345)  
+![](./img/Twitter_icon.png) Twitter: [MRMike_MD](https://twitter.com/MRMike_MD)  
