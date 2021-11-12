@@ -26,3 +26,30 @@ Licenciatura: Médico Cirujano
 Correo electrónico: mikemarm_93@live.com.mx  
 ![](./img/facebook_icon.png) Facebook: [Mike Mtz-Rojas](https://www.facebook.com/mike.martinez.332345)  
 ![](./img/Twitter_icon.png) Twitter: [MRMike_MD](https://twitter.com/MRMike_MD)  
+Instagram: [mikemtzrojas](https://www.instagram.com/mikemtzrojas/?hl=es)
+
+## Reporte
+
+En este documento están los resultados del análisis realizado en la práctica. Para ver contenido hacer click [aquí](./docs/reporteClase.pdf)
+
+## Publicaciones durante el posgrado
+
+2020  
+Is the kidney a target of SARS-CoV-2 [Review](./docs/martinez_rojas_review_kidney_covid_2020.pdf)  
+2021  
+Vegfa hypermethylation contributes to AKI-to-CKD [Original](./docs/sanchez_navarro_vegfa_hypermethylation_2021.pdf)  
+Early triggers of obesity-induced kidney injury [Original](./docs/sanchez_navarro_obesity_kidney_injury_2021.pdf)  
+
+## Gráficas
+
+Histograma
+
+```{r}
+hist(iris$Sepal.Length)
+```
+
+Plot
+
+```{r}
+plot(iris$Sepal.Length,iris$Petal.Length,col=iris$Species)
+```
